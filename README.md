@@ -1,0 +1,2 @@
+# GhostModeAI
+A Study Application
