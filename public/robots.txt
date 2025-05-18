@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /some-private-page/ # Example: if you had private pages
+
+Sitemap: https://ghostmode.neelanjanchakraborty.in/sitemap.xml
